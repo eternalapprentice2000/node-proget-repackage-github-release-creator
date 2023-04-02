@@ -1,2 +1,3 @@
-# node-proget-repackage-github-release-creator
-the name says it all apparently
+# Promote Proget Package + Create github release node App
+
+... coming soon
